@@ -1,4 +1,4 @@
-# Text Summarization using pre-trained model and TOPSIS
+# Text Summarization using pre-trained models
 
 This project aims to implement text summarization using pre-trained models from the Hugging Face Transformers library. Text summarization is the process of generating a concise and coherent summary of a text document while preserving its most important information. We employ various pre-trained models and evaluate their performance using metrics such as ROUGE scores and BLEU scores. Additionally, we utilize the TOPSIS method to determine the best-performing model based on multiple evaluation metrics.
 

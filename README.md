@@ -15,3 +15,13 @@ pip install transformers
 ```python
 from transformers import pipeline
 ```
+
+## Dataset
+I used the 
+cnn-daily mail dataset from the library dataset. use the following command to install the dataset
+
+```bash
+pip install datasets
+from datasets import load data
+```
+

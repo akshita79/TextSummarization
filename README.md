@@ -27,6 +27,11 @@ Calculate various metrics to assess the quality of the generated summaries.
 ## 4. Model Comparison:
 Utilize the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method to compare models based on multiple evaluation metrics.
 Determine the best-performing model based on the calculated scores and metrics.
+## 5. visualizations:
+![Unknown](https://github.com/akshita79/TextSummarization/assets/92212914/a8352c38-947c-4e69-92c9-c560b9150145)
+![Unknown-2](https://github.com/akshita79/TextSummarization/assets/92212914/3fd0c109-91e4-4be6-93dc-6aa001b1c01a)
+![Unknown-3](https://github.com/akshita79/TextSummarization/assets/92212914/14b8ad8f-47c4-44bd-8b8a-75b4ca01ede4)
+
 
 
 ## Topsis 

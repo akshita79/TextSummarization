@@ -29,4 +29,6 @@ Utilize the TOPSIS (Technique for Order of Preference by Similarity to Ideal Sol
 Determine the best-performing model based on the calculated scores and metrics.
 
 
+## Topsis 
 
+![Workflow-of-the-TOPSIS-method](https://github.com/akshita79/TextSummarization/assets/92212914/c2bd3a56-ffbd-477a-83cf-a977a4d36144)
